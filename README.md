@@ -3,8 +3,7 @@ Espero está aprendendo muito hoje com o nosso professor Ramon.
 
 
 
-Belo Horizonte.
-
+O professor está ensinando como criar uma  pagina
 
 ### Markdown
 
