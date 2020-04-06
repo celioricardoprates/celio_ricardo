@@ -1,8 +1,10 @@
 ## Seja bem vindo a pagina do celio:
-# Header 1 Espero est está aprendendo  muito hoje na aula com nosso professor Ramon
+# Header 1 Espero est está aprendendo  muito hoje na aula com nosso professor  Ramon.
 
 
-Seja bem vindo a minha pagina
+## Headers Seja bem vindo a minha pagina.
+
+
 
 O professor está ensinando como criar uma  pagina
 
