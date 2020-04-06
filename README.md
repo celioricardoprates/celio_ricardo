@@ -10,8 +10,8 @@
 
 # Cabeçalho 4 Uni Bh
 
-# Cabeçaho 5 Os alunos presentes sao:Celio     
-Prates
+# Cabeçaho 5 Os alunos presentes sao:Celio , Richard, lucas, Marcelo, Richard e thiago    
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
