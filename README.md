@@ -28,7 +28,9 @@ Pais: Ricardo carvalho e Maricelia Prates
 
 Irmaos : Leticia Prates 
 
-Cores favoritas: Preto, brando e azul
+Cores favoritas: Preto, brando e 
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
