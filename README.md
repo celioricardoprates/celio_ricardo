@@ -6,9 +6,9 @@
 # Header 2 Seja bem vindo a minha pagina.
 
 
-###  Cabeçalho 3 O professor está ensinando a crirar uma pagina.
+## Cabeçalho 3 O professor está ensinando criar uma pagina
 
-Universidade UniBh
+# Cabeçalho 4 Uni Bh
 
 Os alunos present na aula de hoje sao:Marcelo,Celio,lucas,Thiago,Richard,Igor.
 ### Markdown
