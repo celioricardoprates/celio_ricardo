@@ -1,5 +1,7 @@
 ## Seja bem vindo a pagina do celio:
 Espero está aprendendo muito hoje com o nosso professor Ramon.
+Obrigado por acessar a minha pagina.
+
 Obrigado por acessar a minha pagina .
 Belo Horizonte.
 
