@@ -6,6 +6,8 @@ Seja bem vindo a minha pagina
 O professor está ensinando como criar uma  pagina
 
 Universidade UniBh
+
+Os alunos present na aula de hoje sao:Marcelo,Celio,lucas,Thiago,Richard,Igor.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
